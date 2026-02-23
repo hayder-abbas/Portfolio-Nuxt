@@ -16,5 +16,5 @@ A modern portfolio website built with **Nuxt 4**, **Vue 3**, and **Tailwind CSS*
 - **Framework**: Nuxt 4
 - **UI Library**: Vue 3
 - **Styling**: Tailwind CSS
-- **Backend**: Firebase
+- **Hosting**: Firebase
 - **Language**: TypeScript
