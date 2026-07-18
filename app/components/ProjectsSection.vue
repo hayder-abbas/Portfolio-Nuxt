@@ -39,8 +39,9 @@
               <span class="skill-badge">Laravel</span>
               <span class="skill-badge">Inertia.js</span>
               <span class="skill-badge">Vue.js</span>
-              <span class="skill-badge">SQLite</span>
+              <span class="skill-badge">MySQL</span>
               <span class="skill-badge">Sanctum Authentication</span>
+              <span class="skill-badge">Docker</span>
             </div>
             <div class="flex gap-3 pt-4 border-t border-white/10">
               <NuxtLink
